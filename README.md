@@ -1,4 +1,4 @@
-# CI/CD Integration Demo Testing Project
+# CI/CD Pipeline Testing Project
 
 ## Overview
 
